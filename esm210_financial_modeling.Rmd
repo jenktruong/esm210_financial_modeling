@@ -1,0 +1,44 @@
+---
+title: "ESM 210 Financial Modeling Analysis"
+author: "Jennifer Truong"
+date: "1/18/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      message = FALSE,
+                      warning = FALSE)
+```
+
+## Step 1. Setting Up Initial Parameters
+
+Question to answer: Should you invest in...
+
+- Project 1?
+- Project 2?
+- Do nothing and park your money in a savings account at the same opportunity rate?
+
+## Step 2. Calculate Accumulated Value
+
+**Accumulated Value:**
+
+## Step 3. Convert To Present Value
+
+**Discount Rate:**
+
+**Present Value:**
+
+## Step 4. Find Net Present Value
+
+**Net Present Value (NPV):**
+
+_NOTE:_ Don't forget to subtract the initial value of the investment from your calculated answer!
+
+## Step 5. Calculate the Internal Rate of Return
+
+**Internal rate of return (IRR):**
+
+## Step 6. Decide Which Investment Option is Good for You
+
+**DECISION RULE:** The decision rule for investors is to invest in projects where IRR > discount rate.
